@@ -1,4 +1,4 @@
-module day2-context
+module day3-trie
 
 go 1.19
 
